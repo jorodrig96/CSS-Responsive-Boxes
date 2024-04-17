@@ -70,38 +70,43 @@ body {
   .a{
     width: 100vw;
     height: 25vh;
+    background-color: aqua;
   }
 
   .b{
       flex-direction: row;
       height: 25vh;
-      
+      background-color: navy;
   }
 
   .c{
     flex-direction: row;
     height: 25vh;
+    background-color: blueviolet;
     }
 
   .d{
       flex-direction: row;
       height: 25vh;
-      
+      background-color: black;
   }
 
   .e{
     flex-direction: row;
     height: 25vh;
+    background-color: brown;
     }
 
   .f{
       flex-direction: row;
       height: 25vh;
+      background-color: teal;
     }
   
   .g{
       flex-direction: row;
       height: 25vh;
+      background-color: cadetblue;
     }
   
   .h{

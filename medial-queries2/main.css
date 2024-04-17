@@ -60,30 +60,39 @@ body {
   row-gap:10px;
   column-gap: 10px;
 }
-.broad{
-  display: flex;
-  flex-direction: column;
-}
+
 .a{
   background-color: maroon;
   width: 75%;
   height: 25vh;
+
   }
 .b{
   flex-direction: row;
   width: 60%;
-  align-self: flex-start;
   height: 25vh;
+  background-color: violet;
 }
 .c{
+  background-color: royalblue;
+  width: 25%;
+  height: 25vh;
+}
+
+.d{
   background-color: orange;
+  width: 25%;
+  height: 25vh;
+}
+
+.e{
+  background-color: lightcoral;
   width: 25%;
   height: 25vh;
 }
 .f{
   width: 18vw;
   height: 75vh;
-  justify-content: left;
-  text-align: center;
+  background-color: red;
 }
 }
